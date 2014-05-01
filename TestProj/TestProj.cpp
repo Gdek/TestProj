@@ -6,6 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	//Do some stuffs
 	return 0;
 }
 
