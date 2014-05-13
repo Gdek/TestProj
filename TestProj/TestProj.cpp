@@ -7,7 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	//Do some stuffs
-	//Changies
+	//More Changies
 	return 0;
 }
 
