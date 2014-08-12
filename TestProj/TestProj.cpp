@@ -7,7 +7,12 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	//Do some stuffs
-	//Different Changies
+	//Delorted!
+	//Some more changes
+	//Did some math
+	int i = 1;
+	int x = 1;
+	int y = x + i;
 	return 0;
 }
 
