@@ -7,7 +7,8 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	//Do some stuffs
-	//Different Changies
+	//Delorted!
+	//Some more changes
 	return 0;
 }
 
