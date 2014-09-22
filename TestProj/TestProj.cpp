@@ -10,8 +10,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	//Delorted! had to edit this
 	//Made a change
 	//Some more changes
-	//Did some math
-	//added another comment
+	//Did some math	
 	int i = 1;
 	int x = 1;
 	int y = x + i;
